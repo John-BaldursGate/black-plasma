@@ -42,4 +42,4 @@ dnf5 -y copr disable ilyaz/LACT
 
 #### Example for enabling a System Unit File
 
-systemctl enable LACT
+systemctl enable lactd
